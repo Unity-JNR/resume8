@@ -98,6 +98,15 @@ mix-blend-mode: multiply;
   /* styles images of the footer */
 }
 
+@media screen and (max-width:650px) {
+  .con{
+    display: inline-block;
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 
 
 
