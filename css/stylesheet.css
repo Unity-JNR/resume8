@@ -16,12 +16,13 @@ a:hover{color: whitesmoke;}
 header {
   text-align: center;
   background-color: lightblue;
-  margin: auto;
+  
 }
 #heading{
   font-family: sans-serif;
   font-size: 100%;
   border: 50%;
+  grid-area: header;
 }
 #profilephoto{width:9rem;
 height: 9rem;
@@ -78,6 +79,7 @@ margin-left: 10.5;
   padding: 0%;
   display: flex;
   flex-direction: column;
+
   
  
 }
